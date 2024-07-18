@@ -1,0 +1,12 @@
+google-generativeai
+chromadb
+langchain_google_genai
+langchain
+PyPDF2==3.0.1
+python-dotenv
+streamlit
+openai
+faiss-cpu
+altair
+tiktoken
+langchain_community
